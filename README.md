@@ -112,11 +112,11 @@ hello world
 cat > newfile 
 Hello world
 hello world
-```
+
  
 grep Hello newfile 
 ## OUTPUT
-![alt text](image-8.png)
+![alt text](image-41.png)
 
 
 
